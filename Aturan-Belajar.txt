@@ -5,4 +5,4 @@ Resolusi Belajar Web Programing:
 - Jika Stuck / Blank Harus Wajib Istirahat
 Latihan Membuat Suatu Program
 - Membuat Website
-- Membuat Web Login
+- Membuat Web Portfolio
