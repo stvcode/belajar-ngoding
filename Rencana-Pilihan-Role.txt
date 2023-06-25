@@ -1,3 +1,2 @@
 Plihan Role
 - Full Stack Developer
-- Android Developer
